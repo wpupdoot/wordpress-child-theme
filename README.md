@@ -11,7 +11,7 @@ This is a project companion to [the tutorial]() available from [WP Updoot's Yout
 
 **Creating the theme's "bones"**
 
-1. Create a new directory in your themes folder, `/wp-content/themes/mu-new-child-theme` (or similar)
+1. Create a new directory in your themes folder, `/wp-content/themes/my-new-child-theme` (or similar)
 1. Alter the appropriate lines in `styles.css`
 
 **Activating the new theme**
